@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rifaldidwipriana/">
     <img src="https://img.shields.io/badge/LinkedIn-Rifaldi Dwi Prianna-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="rifaldidwi30@gmail.com">
+  <a href="mailto:rifaldidwi30@gmail.com">
     <img src="https://img.shields.io/badge/Email-rifaldidwi30@gmail.com-green?style=for-the-badge&logo=gmail">
   </a>
 </p>
