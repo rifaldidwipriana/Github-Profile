@@ -26,8 +26,8 @@ I am currently building technical expertise in SQL, Python, and Tableau, combini
 
 <h2> My Projects</h2>
 
-| Project | Description | Tech | Result |
-|---------|-------------|------|--------|
+| Project | Overview | Tools | Key Finding |
+|---------|----------|-------|-------------|
 | Project 1
 | Project 2
 | Project 3
