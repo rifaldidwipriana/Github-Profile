@@ -19,10 +19,13 @@
 <h2> About Me</h2>
 
 <div align="justify">
-  A thoughtful and adaptable professional with a background in research, team leadership, and hands-on industry experience as a Maintenance Technician, I am now transitioning into data analytics driven by a passion for data-driven decision-making.
+  <p>
+    A thoughtful and adaptable professional with a background in research, team leadership, and hands-on industry experience as a Maintenance Technician, I am now transitioning into data analytics driven by a passion for data-driven decision-making.
+  </p>
   
-  <br/>
-  I am currently building technical expertise in SQL, Python, and Tableau, combining my research foundation with practical analytics skills. I value continuous learning and diverse perspectives, always seeking to grow through collaboration and new experiences. I am eager to contribute meaningfully to organizations that rely on data to drive informed decisions.
+  <p>
+    I am currently building technical expertise in SQL, Python, and Tableau, combining my research foundation with practical analytics skills. I value continuous learning and diverse perspectives, always seeking to grow through collaboration and new experiences. I am eager to contribute meaningfully to organizations that rely on data to drive informed decisions.
+  </p>
 </div>
 
 ---
