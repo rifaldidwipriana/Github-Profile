@@ -28,3 +28,10 @@ I am currently building technical expertise in SQL, Python, and Tableau, combini
 
 | Project | Description | Tech | Result |
 |--------|-------------|------|--------|
+| Project 1
+| Project 2
+| Project 3
+| Project 4
+| Project 5
+
+---
