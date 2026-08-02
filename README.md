@@ -13,7 +13,9 @@
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
 </p>
+
 ---
+
 <h1 align="center">Hi, I'm Chelsea 👩‍💻</h1>
 
 <p align="center">
@@ -34,3 +36,4 @@
 </p>
 
 ---
+
